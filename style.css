@@ -1,0 +1,6 @@
+:root {
+    cursor: crosshair;
+    width: 100%;
+    height: 100vh;
+    background-image: radial-gradient(at calc(100% * var(--mouse-x)) calc(100% * var(--mouse-y)), transparent 0%, transparent 10%, black 80%, black 100%);
+}
